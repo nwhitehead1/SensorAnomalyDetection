@@ -1,4 +1,4 @@
-# Anomaly Detection Experiment
+# Compression and Anomaly Detection Experiment
 
 A notebook detailing a "proof of concept" applying autoencoders in a traditional IoT architecture to achieve two important results:
   1. Compress data sent to the gateway to improve network throughput.
